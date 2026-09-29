@@ -1,0 +1,306 @@
+============= Hash Table ============
+|1. Insert a key to the hash table  |
+|2. Delete a key from the hash table|
+|3. Print the hash table            |
+|4. Quit                            |
+=====================================
+Enter selection: Enter a key to be inserted:
+Insert: 5 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 41 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 42 Key Comparisons: 1
+Enter selection: 0: 0  
+1: 0  
+2: 0  
+3: 0  
+4: 41  
+5: 5  
+6: 0  
+7: 0  
+8: 0  
+9: 42  
+10: 0  
+11: 0  
+12: 0  
+13: 0  
+14: 0  
+15: 0  
+16: 0  
+17: 0  
+18: 0  
+19: 0  
+20: 0  
+21: 0  
+22: 0  
+23: 0  
+24: 0  
+25: 0  
+26: 0  
+27: 0  
+28: 0  
+29: 0  
+30: 0  
+31: 0  
+32: 0  
+33: 0  
+34: 0  
+35: 0  
+36: 0  
+Enter selection: Enter a key to be inserted:
+Insert: 9 Key Comparisons: 1
+Enter selection: Enter a key to be inserted:
+Insert: 72 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 73 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be inserted:
+Insert: 79 Key Comparisons: 1
+Enter selection: Enter a key to be deleted:
+Delete: 42 Key Comparisons: 2
+Enter selection: 0: 0  
+1: 0  
+2: 0  
+3: 0  
+4: 41  
+5: 5  
+6: 0  
+7: 79  
+8: 0  
+9: 42 *
+10: 0  
+11: 0  
+12: 0  
+13: 0  
+14: 0  
+15: 0  
+16: 0  
+17: 0  
+18: 0  
+19: 9  
+20: 0  
+21: 0  
+22: 0  
+23: 0  
+24: 0  
+25: 0  
+26: 0  
+27: 0  
+28: 0  
+29: 0  
+30: 0  
+31: 0  
+32: 0  
+33: 0  
+34: 0  
+35: 72  
+36: 73  
+Enter selection: Enter a key to be deleted:
+42 does not exist.
+Enter selection: Enter a key to be inserted:
+Insert: 43 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 37 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 36 Key Comparisons: 1
+Enter selection: Enter a key to be inserted:
+Insert: 27 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 22 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 15 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 77 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 66 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be inserted:
+Insert: 45 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be inserted:
+Insert: 23 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be inserted:
+Insert: 38 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 39 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 40 Key Comparisons: 3
+Enter selection: Enter a key to be inserted:
+Insert: 443 Key Comparisons: 6
+Enter selection: Enter a key to be inserted:
+Insert: 468 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 98 Key Comparisons: 1
+Enter selection: Enter a key to be deleted:
+Delete: 45 Key Comparisons: 1
+Enter selection: Enter a key to be deleted:
+Delete: 79 Key Comparisons: 2
+Enter selection: 0: 37  
+1: 38  
+2: 39  
+3: 77  
+4: 41  
+5: 5  
+6: 43  
+7: 79 *
+8: 45 *
+9: 40  
+10: 36  
+11: 443  
+12: 0  
+13: 0  
+14: 0  
+15: 15  
+16: 0  
+17: 0  
+18: 0  
+19: 9  
+20: 0  
+21: 0  
+22: 22  
+23: 23  
+24: 468  
+25: 0  
+26: 0  
+27: 27  
+28: 0  
+29: 66  
+30: 0  
+31: 0  
+32: 98  
+33: 0  
+34: 0  
+35: 72  
+36: 73  
+Enter selection: Enter a key to be inserted:
+Insert: 99 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 605 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 74 Key Comparisons: 2
+Enter selection: Enter a key to be inserted:
+Insert: 28 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 91 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 92 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be inserted:
+Insert: 29 Key Comparisons: 1
+Enter selection: Enter a key to be inserted:
+Insert: 30 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 31 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 32 Key Comparisons: 3
+Enter selection: Enter a key to be inserted:
+Insert: 33 Key Comparisons: 2
+Enter selection: Enter a key to be inserted:
+Insert: 35 Key Comparisons: 5
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be inserted:
+Insert: 26 Key Comparisons: 0
+Enter selection: Enter a key to be inserted:
+Insert: 55 Key Comparisons: 4
+Enter selection: Enter a key to be deleted:
+Delete: 55 Key Comparisons: 5
+Enter selection: Enter a key to be inserted:
+Insert: 56 Key Comparisons: 28
+Enter selection: Enter a key to be inserted:
+Insert: 57 Key Comparisons: 30
+Enter selection: 0: 37  
+1: 38  
+2: 39  
+3: 77  
+4: 41  
+5: 5  
+6: 43  
+7: 57  
+8: 35  
+9: 40  
+10: 36  
+11: 443  
+12: 33  
+13: 605  
+14: 0  
+15: 15  
+16: 32  
+17: 91  
+18: 92  
+19: 9  
+20: 74  
+21: 0  
+22: 22  
+23: 23  
+24: 468  
+25: 99  
+26: 26  
+27: 27  
+28: 28  
+29: 66  
+30: 30  
+31: 31  
+32: 98  
+33: 29  
+34: 56  
+35: 72  
+36: 73  
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be deleted:
+Delete: 57 Key Comparisons: 5
+Enter selection: Enter a key to be inserted:
+Insert: 57 Key Comparisons: 30
+Enter selection: Enter a key to be inserted:
+Duplicate key
+Enter selection: Enter a key to be inserted:
+Insert: 45 Key Comparisons: 22
+Enter selection: Enter a key to be deleted:
+Delete: 56 Key Comparisons: 4
+Enter selection: 0: 37  
+1: 38  
+2: 39  
+3: 77  
+4: 41  
+5: 5  
+6: 43  
+7: 57  
+8: 35  
+9: 40  
+10: 36  
+11: 443  
+12: 33  
+13: 605  
+14: 45  
+15: 15  
+16: 32  
+17: 91  
+18: 92  
+19: 9  
+20: 74  
+21: 0  
+22: 22  
+23: 23  
+24: 468  
+25: 99  
+26: 26  
+27: 27  
+28: 28  
+29: 66  
+30: 30  
+31: 31  
+32: 98  
+33: 29  
+34: 56 *
+35: 72  
+36: 73  
+Enter selection: 
